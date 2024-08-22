@@ -1,2 +1,2 @@
 # gastric_mutipleregion_wes
-The code involving "Evolving genomic characteristics of intestinal metaplasia and gastric cancer"
+Main code for paper "Evolving genomic characteristics of intestinal metaplasia and gastric cancer"
